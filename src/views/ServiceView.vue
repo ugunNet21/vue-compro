@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Ini halaman  About</h1>
+    <h1>Ini halaman  Service</h1>
   </div>
 </template>
 
