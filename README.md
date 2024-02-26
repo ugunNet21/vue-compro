@@ -66,3 +66,56 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
+```bash
+company-profile/
+│
+├── public/
+│   ├── index.html
+│   └── ...
+│
+├── src/
+│   ├── assets/
+│   │   ├── css/
+│   │   ├── img/
+│   │   └── ...
+│   │
+│   ├── components/
+│   │   ├── Header.vue
+│   │   ├── Footer.vue
+│   │   ├── CompanyInfo.vue
+│   │   ├── ContactForm.vue
+│   │   └── ...
+│   │
+│   ├── views/
+│   │   ├── Home.vue
+│   │   ├── About.vue
+│   │   ├── Services.vue
+│   │   └── Contact.vue
+│   │
+│   ├── router/
+│   │   └── index.js
+│   │
+│   ├── store/
+│   │   └── index.js
+│   │
+│   ├── services/
+│   │   └── api.js
+│   │
+│   ├── utils/
+│   │   └── helpers.js
+│   │
+│   ├── App.vue
+│   └── main.js
+│
+├── tests/
+│   └── ...
+│
+├── node_modules/
+│   └── ...
+│
+├── .gitignore
+├── babel.config.js
+├── package.json
+└── README.md
+
+```
